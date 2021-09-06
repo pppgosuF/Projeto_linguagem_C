@@ -1,2 +1,2 @@
 # Projeto_linguagem_C
-Este códigos servem para mostrar meus primeiros contato com a Liguagem C
+Este projeto serve para mostrar meu primeiro contato com a Liguagem C
